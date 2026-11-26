@@ -1,4 +1,24 @@
-# Gothic-Remake-VR
+
+Gothic Remake VR 0.3.291
+Created by Anunnak & Codex
+
+Windows x64 · Steam · Gothic 1 Remake · Build106_CL176207
+
+This tester build gives you a full player body and hands in VR. You can interact with objects and NPCs, fight in melee or at range, cast spells, climb, swim, use the quick-access wheel and play the lute.
+Installation
+1. Extract the entire archive and run Setup.exe. The installer is in English.
+2. If you need to select your Gothic 1 Remake installation folder, click Browse… and choose the game folder.
+3. Connect to the internet and click Install. On the first installation, the compact installer downloads UEVR and GORE from GitHub (70.5 MB total). It verifies the checksums of both downloads and caches the files in %LOCALAPPDATA%\GothicVR\SetupCache for future installations.
+4. Once installation is complete, connect your PC VR headset and launch GothicVR 0.3.291 from the desktop or the Start menu.
+If a download is interrupted, reconnect to the internet and click Install again.
+Installer music
+Once GORE is ready, the installer can play the theme from Xardas’ tower. It reads the music from your installed copy of Gothic 1 Remake. Use the Music checkbox to turn it on or off.
+Guides
+- Installation, controls and troubleshooting (English)
+- Installation, controls and troubleshooting (Russian)
+Credits
+VR integration uses UEVR by praydog. GORE extracts the installer music from the local game files. The creators of Gothic 1 Remake and its soundtrack are listed in the game credits.
+
 Gothic Remake VR 0.3.291
 This compact kit downloads 70.5 MB from GitHub on the first installation for UEVR and GORE. Select Install with an internet connection. Setup verifies both downloads and keeps them in %LOCALAPPDATA%/GothicVR/SetupCache for reuse. If a download fails, restore the connection and select Install again. The installer music can start once GORE is ready.
 
