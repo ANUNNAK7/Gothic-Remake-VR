@@ -5,6 +5,7 @@ This compact kit downloads 70.5 MB from GitHub on the first installation for UEV
 При первой установке компактная версия скачивает с GitHub 70,5 МБ для UEVR и GORE. Подключитесь к интернету и нажмите Install. Установщик проверит контрольные суммы и сохранит файлы в %LOCALAPPDATA%/GothicVR/SetupCache для повторной установки. При обрыве связи восстановите подключение и снова нажмите Install. Музыка установщика сможет заиграть после подготовки GORE.
 
 Creators / Авторы — Anunnak & Codex
+
 Windows x64 · Steam · Gothic 1 Remake · Build106_CL176207
 
 Extract the entire archive and run Setup.exe. Select Browse… if you need to locate the game, then select Install. After installation, connect your PCVR headset and start GothicVR 0.3.291 from the desktop or Start menu.
