@@ -1,0 +1,51 @@
+Gothic Remake VR — Meta Quest 3 Controls 🎮
+
+PC · Steam Link → SteamVR · Two Quest controllers · Control layout 0.3.289
+
+The trigger is under your index finger. The grip button is on the side, under your middle finger. A and B are on the right controller. X and Y are on the left.
+
+MOVEMENT, JUMPING AND CLIMBING
+
+Walk or run — move the left stick. Push it sideways to strafe or pull it back to walk backward.
+Turn — push the right stick left or right.
+Jump — flick the right stick up.
+Crouch or sneak — flick the right stick down.
+Climb a ledge — reach for the edge, hold the grip button on that hand and pull your hand down to lift yourself up. Grab the next handhold with your other hand to keep climbing.
+Jump from a handhold — while holding on, flick the right stick up to jump. To drop, release your grip.
+Swim — stroke with both arms. Push water behind you to swim forward, or push it away in front of you to move backward. Use vertical strokes to change depth. Near the bottom, flick the right stick up to push off toward the surface.
+
+HANDS, OBJECTS AND THE PEOPLE OF THE COLONY
+
+Touch a surface — reach out to a tree or stump with an open hand. Try brushing it with your fingertips or the edge of your palm.
+Grab and throw — reach for an object and hold the grip button. Release to drop it, or swing your arm and release to throw.
+Interact with the world — look at a person or object, wait for a name or prompt to appear, then press A. Use this to start a conversation, pick something up, open a chest, sit on a bench, go to sleep or cook at a cauldron.
+Shove, punch or block — push an NPC with an open palm to shove them. Hold the grip button to make a fist, then throw a punch. To block, put your open hand in the path of an incoming punch.
+Drag a downed character — reach toward their body, hold the grip button and pull. Release your grip to let go.
+Pick a pocket — grab the coin purse on an NPC’s belt with the grip button, pull it free and tuck it inside your shirt. The contents are yours.
+
+WEAPONS AND MAGIC
+
+Empty hands — press the right trigger to draw your last weapon.
+Sword, axe or other melee weapon — swing your hand to strike. For a two-handed weapon, bring your left hand to the handle and hold the left grip. Let go and grab again to adjust your grip. Press the right trigger to switch to your equipped ranged weapon.
+Bow — hold the bow in your left hand. Reach over your right shoulder, hold the right trigger to take an arrow and bring it to the string. Draw your hand back and release the trigger to shoot. The farther you draw, the faster the arrow flies.
+Crossbow — reach over your left shoulder and take a bolt with the left trigger. Bring it to the crossbow to load it. Hold the left grip near the stock to steady your aim, then press the right trigger to fire.
+Magic — aim your palm at the target and press the right trigger. The spell fires from your hand.
+Switch to melee from a bow, crossbow or spell — hold Y and press the right trigger to draw your equipped melee weapon.
+Put away a weapon — click the right stick. Pushing the stick up makes you jump.
+
+INVENTORY, QUICK WHEEL AND ITEMS
+
+Inventory — press X to open or close it. Point with your right hand and press the right trigger to select an item.
+Quick slots — point at an item, hold the left trigger, then select the slot you want with the right trigger.
+Quick wheel — press B to open the wheel by your wrist. Reach for the item you want and take it with the grip button. You can also use the wheel while seated or talking to someone.
+Food and consumables — take an item from the wheel. With food in your right hand, press the right trigger to eat. To take a puff of swampweed, bring it to your mouth.
+Lute — hold the neck with your left hand and strum the strings with your right. People nearby may turn to listen.
+
+DIALOGUE, MENUS AND SAVES
+
+Talking to an NPC — move the right stick up or down to highlight a reply and press A to choose it. The left trigger plays the Russian voice line “Понимаю” (“I see”). You can acknowledge the speaker and keep the conversation going.
+In the world, with empty hands — press Y to open the Gothic menu. From here you can save, load or quit.
+In a menu or the save list — move the right stick to highlight an option and press A to confirm. Press B to go back or cancel.
+Pointing at a save slot — point with your right hand and press the left trigger to select the slot. In the inventory, point with the same hand and select with the right trigger.
+
+For your first evening in the Colony, remember three things. Hold the grip button to grab, pull the trigger to use what’s in your hand, and press A to interact with whatever you’re looking at.
